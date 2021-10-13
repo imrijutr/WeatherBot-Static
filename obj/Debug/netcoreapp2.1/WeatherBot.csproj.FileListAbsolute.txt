@@ -13,3 +13,24 @@
 /home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.RazorTargetAssemblyInfo.cache
 /home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.dll
 /home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.pdb
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\Resources\Weather.json
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\WeatherBot.deps.json
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\WeatherBot.runtimeconfig.json
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\WeatherBot.runtimeconfig.dev.json
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\WeatherBot.dll
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\bin\Debug\netcoreapp2.1\WeatherBot.pdb
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.csproj.AssemblyReference.cache
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.AssemblyInfoInputs.cache
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.AssemblyInfo.cs
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.csproj.CoreCompileInputs.cache
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.RazorAssemblyInfo.cache
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.RazorAssemblyInfo.cs
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.RazorTargetAssemblyInfo.cache
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.dll
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.pdb
+C:\Users\Riju T R\Desktop\Bot\WeatherBot\obj\Debug\netcoreapp2.1\WeatherBot.genruntimeconfig.cache

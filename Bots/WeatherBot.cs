@@ -56,7 +56,7 @@ namespace Microsoft.BotBuilderSamples.Bots
         }
         private readonly string[] _images =
     {
-          Path.Combine(".", "Resources", "weatherbot.jpg"),
+          Path.Combine(".", "Resources", "weather-gif.gif"),
         };
         public static string ImageToBase64(string filePath)
         {
@@ -66,9 +66,9 @@ namespace Microsoft.BotBuilderSamples.Bots
         }
         protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivity> turnContext, CancellationToken cancellationToken)
         {
-            var client = new OpenWeatherMapClient("47d4faed8ac5819xxxxxxxxxx");
+            var client = new OpenWeatherMapClient(" ");
             var CloudImage = "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Square.png";
-            var DizzleImage = "http://messagecardplayground.azurewebsites.net/assets/Drizzle-Square.png";
+            //var DizzleImage = "http://messagecardplayground.azurewebsites.net/assets/Drizzle-Square.png";
             var rainImage  = "https://raw.githubusercontent.com/zayedrais/WeatherBot/master/rain.png";
             var stormImage = "https://raw.githubusercontent.com/zayedrais/WeatherBot/master/storm.png";
             var sunImage = "https://raw.githubusercontent.com/zayedrais/WeatherBot/master/sun.png";
